@@ -1,1 +1,3 @@
 https://github.com/alborada2018/vuelos-cms-next_U
+
+descomprimir y habilitar la base de datos  el usuario es jori y su clave es 123456 
